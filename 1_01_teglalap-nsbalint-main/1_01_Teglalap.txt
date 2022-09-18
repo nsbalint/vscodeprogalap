@@ -1,0 +1,1 @@
+Kérje be egy téglalap két oldalát, majd számítsa ki a kerületét és területét! Az eredményt írassa ki!
